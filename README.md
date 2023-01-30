@@ -3,6 +3,9 @@
 ### Spring 2023, Bucknell University 
 ### Due date: Feb 10th, 2023, Midnight (11:59)| submissions would be accepted through GitHub only unless stated otherwise.
 
+### Your full name: 
+### Time taken to complete:
+
 Make sure you read the [general setup instructions](https://docs.google.com/document/d/1A1BGTjrnIgJXBYV0qg_ZrlOLL4x0hzlaSt6ryFXMbQE/edit?usp=sharing) before you start!
 
 
