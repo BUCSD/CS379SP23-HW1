@@ -57,4 +57,7 @@ Stick to using only numpy, pandas, and matplotlib packages unless stated otherwi
 
 Use np.random.seed(1846) so the results are reproducible 
 
+----------------Improvement 
+Make it autograded. 
+Specifically ask for interpretation of the figures and relationship between the histoverlap and EER?
 
